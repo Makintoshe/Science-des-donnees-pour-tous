@@ -41,7 +41,7 @@ Ce dossier est sans doute mon préféré, ce contenu n'est pas exhaustif !!!
 ### Challenges :
 
 - Kaggle est une plateforme de compétitions en IA, Science des Données, qui met à votre disposition des challenges avec des récompenses, des datasets (bases de données), etc.
-- Nous avons crée une équipe de passionnée avec des amis (DS4A : Data Science for All), depuis 2021. L'objectif de ce collectif qui contient des Data Scientists débutant (en formation), Junior (professionnel), Senior ou Lead (confirmé) et, des Phds Students, est de grandir dans le métier en propulsant également la communauté congolaise (dont je suis issue) présente sur Zindi. Zindi est une plateforme de challenge en Sciene des Données et IA, c'est une alternative à Kaggle pour résoudre des problèmes Africains en utilisant l'IA. Vous pouvez également y trouver des offres d'emplois dans "Jobs". Et si vous êtes intéressé pour compétir, écrivez-moi.
+- Nous avons crée une équipe de passionnées avec des amis (DS4A : Data Science for All), depuis 2021. L'objectif de ce collectif qui contient des Data Scientists débutant (en formation), Junior (professionnel), Senior ou Lead (confirmé) et, des Phds Students, est de grandir dans le métier en propulsant également la communauté congolaise (dont je suis issue) présente sur Zindi. Zindi est une plateforme de challenge en Sciene des Données et IA, c'est une alternative à Kaggle pour résoudre des problèmes Africains en utilisant l'IA. Vous pouvez également y trouver des offres d'emplois dans "Jobs". Et si vous êtes intéressé pour compétir, écrivez-moi.
 
 ### Protocol Expérimental :
 
