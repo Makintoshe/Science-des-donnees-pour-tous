@@ -49,7 +49,7 @@ Ce repo va s'améliorer avec le temps, d'autres contributeurs seront associés �
 
 Par contre, vous avez ici, un protocol expérimental rigoureux et basic (mais pas le moindre non plus), qui permet de résoudre un problème de machine leanring en apprentissage supervisé. Pour en savoir plus, je vous conseille de jeter un coup d'oeil sur mes repos d'apprentissage automatique.
 
-Sinon, d'aller plus loin en lisant des livres.
+Sinon, allez plus loin en lisant des livres.
 
 ### Conseils
 
