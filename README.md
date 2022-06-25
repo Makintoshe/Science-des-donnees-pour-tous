@@ -69,6 +69,7 @@ Les non-dits...je suis gentille, ne me remerciez-pas ;-) .
 - Thierry Paquet : NLP
 - Laurent Heutte : ML
 - Sébastien Adam : GNN
+- Ian Goodfellow : GAN
 
 ### Des questions ? contactez-moi :
 
