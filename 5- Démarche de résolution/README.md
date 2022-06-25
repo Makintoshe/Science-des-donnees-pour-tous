@@ -1,6 +1,6 @@
-Besoins identifiés : 
+Tâches identifiées : 
 
-1. Feature Engineering (prétraitmeent: nettoyer et compréhension des données) 60 à 70 %
+1. Feature Engineering (prétraitement: nettoyer et compréhension des données) 60 à 70 % de temps
     a. Valeurs manquantes
     b. Valeurs aberrantes (une valeur inhabituelle : ex : taille de 1000 cm)
     c. Valeurs rares (fraude transaction)
