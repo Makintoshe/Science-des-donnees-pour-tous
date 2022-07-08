@@ -81,6 +81,6 @@ Les non-dits...je suis gentille, ne me remerciez-pas ;-) .
 
 contact@ketsiamulapi.com
 
-### Droits d'auteurs :
+### Auteur :
 
 Ketsia Mulapi. 2022.
