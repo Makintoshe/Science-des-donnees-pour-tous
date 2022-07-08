@@ -13,7 +13,7 @@ il y'aura surement des fautes d'orthographes dans ce repo, avec le temps j'essay
 - La science des donnes est tout simplement : 
 l'ensemble (l'art de manier des outils) des mathématiques et des statistiques qui aident à (dans le but de) mettre en oeuvre des algorithmes d'intelligences artificielles. 
 
-C'est la raison pour laquelle les Data Scientist (Scientifiques de la Donnée) ont tendance à parler d'intelligence artificielle ... d'ailleurs, retenez qu'il n'existe pas d'intelligence artificielle, il n'existe que des données (vous comprendrez un jour)!!!
+C'est la raison pour laquelle les Data Scientists (Scientifiques de la Donnée) ont tendance à parler d'intelligence artificielle ... d'ailleurs, retenez qu'il n'existe pas d'intelligence artificielle, il n'existe que des données (vous comprendrez un jour)!!!
 
 La Science des données est alors à l'intersection entre : les maths, les stats, l'intelligence artificielle (le machine learning, le deep learning).
 
