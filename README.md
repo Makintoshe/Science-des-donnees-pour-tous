@@ -4,6 +4,12 @@ Ce repo. s'adresse à toutes les personnes qui aspirent à faire leur début en 
 
 *Vous pouvez le lire ici en cliquant sur les fichiers ou, en le télechargeant (clone du repo) et en l'ouvrant avec des applications appropriées.*
 
+### Tolérance
+
+il y'aura surement des fautes d'orthographes dans ce repo, avec le temps j'essayerai de faire une lecture complète et d'y apporter des modifications. :-)
+
+### LET'S GO !
+
 - La science des donnes est tout simplement : 
 l'ensemble (l'art de manier des outils) des mathématiques et des statistiques qui aident à (dans le but de) mettre en oeuvre des algorithmes d'intelligences artificielles. 
 
@@ -56,10 +62,6 @@ Sinon, allez plus loin en lisant des livres.
 Les non-dits...je suis gentille, ne me remerciez-pas ;-) .
 
 ### Partie 7 (en rédaction) : Les livres à lire (prochaine partie...elle sera disponible dans la version 3)
-
-### Tolérance
-
-il y'aura surement des fautes d'orthographes dans ce repo, avec le temps j'essayerai de faire une lecture complète et d'y apporter des modifications. :-)
 
 ### Quelques pionniers et personnes importantes ou intéressantes à lire ou à suivre dans le domaine de l'intelligence artificielle
 
