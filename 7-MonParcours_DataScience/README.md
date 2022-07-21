@@ -38,7 +38,7 @@ je vous pésente ici l'exemple des cours que j'ai suivis dans ma filière scienc
 
     e. JavaFX
 
-    f. Web des Données
+    f. Web des Données (XML, XSD, DTD, Xpath, turtle, SparQl, Xquery, RDF, OWL, ...)
 
     g. Apprentissage Automatique (classification et prédiction)
 
