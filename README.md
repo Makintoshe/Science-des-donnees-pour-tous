@@ -41,7 +41,7 @@ Ce dossier est sans doute mon préféré, ce contenu n'est pas exhaustif !!!
 - On y aborde les salaires annuels bruts des data scientists
 - Les missions : vous trouverez une diversité de missions pour des offres de Stage, d'Alternance, de CDI, de Thèse de certaines entreprises (Canal +, BNP Paris, Orange, etc.). L'objectif est que vous ayez une idée des missions d'un Data Scientist, afin que vous compreniez que faire de la Science des Données c'est faire de l'intelligence artificielle et bien plus.
 - Les opportunités : Dans cette partie, vous trouverez des sites d'offres d'emplois, d'opportunités (en plus de ce que vous avez dans la rubrique précédente), de télétravail (élligible en fonction du lieu d'habilitation), etc.
-- Use case (Cas d'utilisation) : ici vous avez l'exemple d'une discipline de l'IA qu'on appelle "Sport Analytics", vous trouverez des articles sur le PSG (Paris Saint-Germain), un papier de recherche Scientifique sur l'IA utilisé par le FC Liverpool en partenariat avec OpenIA (Qui appartient à Elon Musk), etc.
+- Use case (Cas d'utilisation) : ici vous avez l'exemple d'une discipline de l'IA qu'on appelle "Sport Analytics", vous trouverez des articles sur le PSG (Paris Saint-Germain), un papier de recherche Scientifique sur l'IA utilisé par le FC Liverpool en partenariat avec DeepMind (Qui appartient à Meta), etc.
 - Enfin le dernier bloc qui ramène vers mon Github et un site web qui reprend des papiers de recherche en IA.
 
 ### Challenges :
