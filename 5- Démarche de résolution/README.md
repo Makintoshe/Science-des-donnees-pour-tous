@@ -29,7 +29,7 @@ Tâches identifiées :
      - Entraînez le modèle \(h_{i,j,k}\) avec \(D_{j,\text{app}k}\).
      - Évaluez sa performance \(R_{i,j,k}\) sur \(D_{j,\text{test}k}\).
    - Calculez la performance moyenne \(R_{i,j}\).
-   - 
+    
 3. Comparez les performances sur chaque jeu de données et/ou globalement à l'aide d'un test de significativité statistique.
 
 4. Conclure
